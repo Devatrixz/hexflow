@@ -20,7 +20,7 @@ DirectSoft HexFlow, kullanıcıların hex düzenleme işlemlerini kolay ve etkil
 
 ### İndirme ve Kurulum
 
-1. [Bu bağlantıdan](link-to-your-release) en son sürümü indirin.
+1. Bu bağlantıdan en son sürümü indirin.
 2. İndirdiğiniz dosyayı açın ve kurulum sihirbazını izleyin.
 3. Uygulamayı başlatın ve kullanmaya başlayın!
 
@@ -35,12 +35,9 @@ HexFlow'u açtıktan sonra, aşağıdaki adımları takip ederek dosya düzenlem
 ## Katkıda Bulunma
 
 Bu proje, katkılara açıktır! Lütfen aşağıdaki adımları izleyerek projeye katkıda bulunun:
-
-1. Bu depoyu çatal (fork) yapın.
-2. Yeni bir dal (branch) oluşturun: `git checkout -b feature/YourFeatureName`
-3. Değişikliklerinizi yapın ve kaydedin: `git commit -m 'Add some feature'`
-4. Dalınızı gönderin: `git push origin feature/YourFeatureName`
-5. Bir çekme isteği (pull request) oluşturun.
+Kaynak kodunu indirin.
+Visual Studio 2019 veya üzeri bir sürümde açın
+Katkıda bulunmaya başlayın!
 
 ## Lisans
 
@@ -50,7 +47,6 @@ Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır - daha fazla bilgi 
 
 Sorularınız veya geri bildirimleriniz için aşağıdaki yöntemlerle bizimle iletişime geçebilirsiniz:
 
-- E-posta: your-email@example.com
 - GitHub: [DirectSoft GitHub Sayfası](https://github.com/Devatrixz/directsoft-hexflow)
 
 ## Katkıda Bulunanlar
