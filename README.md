@@ -1,7 +1,5 @@
 # DirectSoft HexFlow
 
-![DirectSoft HexFlow Logo](logo.png) <!-- Eğer bir logo varsa bu satırı ekleyebilirsin. -->
-
 DirectSoft HexFlow, kullanıcıların hex düzenleme işlemlerini kolay ve etkili bir şekilde yapmalarını sağlamak için geliştirilmiş bir açık kaynak yazılımdır. Bu yazılım, kullanıcı dostu arayüzü ve gelişmiş özellikleri ile dosya analizi ve düzenleme ihtiyaçlarınızı karşılar.
 
 ## Özellikler
