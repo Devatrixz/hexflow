@@ -1,0 +1,12 @@
+C:\Users\Suat\source\repos\DirectSoft HexFlow\DirectSoft HexFlow\bin\Debug\DirectSoft HexFlow.exe
+C:\Users\Suat\source\repos\DirectSoft HexFlow\DirectSoft HexFlow\bin\Debug\DirectSoft HexFlow.pdb
+C:\Users\Suat\source\repos\DirectSoft HexFlow\DirectSoft HexFlow\obj\Debug\DirectSoft HexFlow.csproj.AssemblyReference.cache
+C:\Users\Suat\source\repos\DirectSoft HexFlow\DirectSoft HexFlow\obj\Debug\DirectSoft_HexFlow.Form1.resources
+C:\Users\Suat\source\repos\DirectSoft HexFlow\DirectSoft HexFlow\obj\Debug\DirectSoft_HexFlow.Properties.Resources.resources
+C:\Users\Suat\source\repos\DirectSoft HexFlow\DirectSoft HexFlow\obj\Debug\DirectSoft HexFlow.csproj.GenerateResource.cache
+C:\Users\Suat\source\repos\DirectSoft HexFlow\DirectSoft HexFlow\obj\Debug\DirectSoft HexFlow.csproj.CoreCompileInputs.cache
+C:\Users\Suat\source\repos\DirectSoft HexFlow\DirectSoft HexFlow\obj\Debug\DirectSoft HexFlow.exe
+C:\Users\Suat\source\repos\DirectSoft HexFlow\DirectSoft HexFlow\obj\Debug\DirectSoft HexFlow.pdb
+C:\Users\Suat\source\repos\DirectSoft HexFlow\DirectSoft HexFlow\obj\Debug\DirectSoft HexFlow.csproj.CopyComplete
+C:\Users\Suat\source\repos\DirectSoft HexFlow\DirectSoft HexFlow\bin\Debug\FastColoredTextBox.dll
+C:\Users\Suat\source\repos\DirectSoft HexFlow\DirectSoft HexFlow\obj\Debug\DirectSoft_HexFlow.AboutBox1.resources
